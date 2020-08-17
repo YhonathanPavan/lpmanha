@@ -1,6 +1,6 @@
-# Repositório com arquivos de aula de Linguagem C - Período Matutino
+# Repositório com arquivos de aula (LP)
 
-## Linguagem C
+## Linguagem C - Manhã
 
 ### Encontro 01
 Apresentação do Plano de Trabalho, Software e Linguagem.
