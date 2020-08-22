@@ -4,3 +4,5 @@
 
 ### Encontro 01
 Apresentação do Plano de Trabalho, Software e Linguagem.
+
+Repositório com os códigos desenvolvidos em aula.
