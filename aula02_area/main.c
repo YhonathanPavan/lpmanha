@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #define PI 3.151
 /*-----------------------------------*
-* Exercício slide 27 (aula 2)        *
-* Cálculo da área e perímetro        *
+* Exercï¿½cio slide 27 (aula 2)        *
+* Cï¿½lculo da ï¿½rea e perï¿½metro        *
 -------------------------------------*/
 int main()
 {

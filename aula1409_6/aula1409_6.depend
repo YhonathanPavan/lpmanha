@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600084780 source:d:\gitfatec\lpmanha\aula1409_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
