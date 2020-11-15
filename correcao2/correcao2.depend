@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603283290 source:d:\gitfatec\lpmanha\correcao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+

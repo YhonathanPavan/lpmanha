@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1584205420 source:d:\gitfatec\lpmanha\teste\main.c
+1604147058 source:d:\gitfatec\lpmanha\teste\main.c
 	<stdio.h>
 	<stdlib.h>
+	"cabec.h"
+
+1604146533 source:d:\gitfatec\lpmanha\teste\operacoes.c
+
+1604146671 d:\gitfatec\lpmanha\teste\cabec.h
+
+1604146533 d:\gitfatec\lpmanha\teste\operacoes.c
 

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604920750 source:d:\gitfatec\lpnoite\aula0911a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabec.h"
+
+1604920647 source:d:\gitfatec\lpnoite\aula0911a\operacoes.c
+
+1604920814 d:\gitfatec\lpnoite\aula0911a\cabec.h
+
