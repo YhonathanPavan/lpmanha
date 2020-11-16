@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605527103 source:d:\gitfatec\lpmanha\ponteiro_03\main.c
+	<stdio.h>
+	<stdlib.h>
+
