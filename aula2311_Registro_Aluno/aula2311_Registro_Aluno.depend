@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606132084 source:d:\gitfatec\lpmanha\aula2311_registro_aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
+1606130624 d:\gitfatec\lpmanha\aula2311_registro_aluno\aluno.h
+
+1606132131 source:d:\gitfatec\lpmanha\aula2311_registro_aluno\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
